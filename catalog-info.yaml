@@ -3,7 +3,6 @@ kind: Component
 metadata:
   annotations:
     backstage.io/kubernetes-id: my-kubernetes-component
-    github.com/project-slug: Mehmoodhassan/Jenkins-project
   name: kubernetes-component
 spec:
   lifecycle: production
